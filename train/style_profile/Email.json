@@ -1,0 +1,16 @@
+{
+    "name": "Email",
+    "description": "The email style of writing is characterized by its concise, clear, and professional tone. This style is typically used in electronic communication between individuals or within organizations, with the aim of conveying information, updates, or requests. The structure of an email usually includes a subject line, a salutation, the main body, and a closing that often includes a signature. The language used in emails should be polite and respectful, with proper grammar and punctuation. Emphasis is placed on clarity and brevity, as well as the use of bullet points or numbered lists to organize information when appropriate. Overall, the email style is designed to facilitate efficient and effective communication in a formal or semi-formal context.",
+    "examples": [
+        "Subject: Meeting Reschedule Request\n\nHi Alex,\n\nDue to a scheduling conflict, I need to propose moving our Thursday meeting to Friday at 3 pm. Let me know if that works for you.\n\nBest,\nJordan",
+        "Subject: Invoice #12345 Due Next Week\n\nHi Samantha,\n\nJust a reminder that Invoice #12345 is due on the 30th. Please review and process the payment at your earliest convenience.\n\nRegards,\nChris",
+        "Subject: Feedback on Project Proposal\n\nHey Jamie,\n\nI've reviewed the project proposal and have a few suggestions. Can we discuss tomorrow at 10 am?\n\nThanks,\nPatricia",
+        "Subject: Lunch Get-Together\n\nHi Team,\n\nLet's meet up for lunch this Friday to celebrate our recent success! Please RSVP by Wednesday.\n\nCheers,\nElena"
+    ],
+    "observation": {
+        "Diction": "Formal and polite language, concise and clear word choice",
+        "Syntax": "Simple sentence structures, use of imperatives and polite requests, occasional use of colons and commas for clarity",
+        "Figures of Speech": "Absence of literary devices",
+        "Rhetorical Purpose": "Informative, persuasive, and courteous in tone, aiming to convey information, request actions, or update recipients"
+    }
+}

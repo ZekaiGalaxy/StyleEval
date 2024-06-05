@@ -1,0 +1,16 @@
+{
+    "name": "Informal",
+    "description": "The informal text style is characterized by a casual and relaxed tone, often used in everyday conversations and personal communications. This style allows for the use of colloquial expressions, slang, and abbreviations, making it more relatable and easy to understand. It also tends to be more flexible in terms of grammar and sentence structure, prioritizing the flow of ideas and emotions over strict adherence to formal writing rules. In essence, the informal style aims to create a friendly and approachable atmosphere, fostering a sense of connection between the writer and the reader.",
+    "examples": [
+        "OMG, I can't believe that just happened!",
+        "I'm kinda tired, but I'll power through it.",
+        "I've got this crazy idea, wanna hear it?",
+        "Ugh, I'm starving \u2013 any suggestions for a quick bite?"
+    ],
+    "observation": {
+        "Diction": "Informal, casual language, use of contractions, slang, and colloquial expressions",
+        "Syntax": "Short sentences, use of interjections, questions, and casual sentence starters",
+        "Figures of Speech": "Limited use of figures of speech, primarily conversational expressions",
+        "Rhetorical Purpose": "Establishing connection, sharing experiences, expressing opinions, and offering insights"
+    }
+}

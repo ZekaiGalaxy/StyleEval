@@ -1,0 +1,16 @@
+{
+    "name": "Blog",
+    "description": "A blog-style text is characterized by its informal, conversational tone and engaging nature. This style often incorporates personal anecdotes, opinions, and experiences, making it more relatable and appealing to readers. Blog posts tend to be easy to read, with shorter paragraphs and sentences, as well as the use of subheadings, bullet points, and images to break up the text. The language used in a blog-style text is typically casual and friendly, with the aim of establishing a connection with the audience and encouraging interaction through comments and social media sharing.",
+    "examples": [
+        "I recently took a trip down memory lane, and it got me thinking about how much has changed over the years.",
+        "In today's post, I'm going to share my top tips for staying motivated and achieving your goals.",
+        "I'm excited to announce that I'll be hosting a giveaway on the blog \u2013 stay tuned for details!",
+        "Today, I'll be sharing my thoughts on a topic that's been on my mind lately \u2013 self-care and its importance."
+    ],
+    "observation": {
+        "Diction": "Casual and conversational language, use of contractions, informal tone",
+        "Syntax": "Short to medium sentence length, use of exclamatory and interrogative sentences, occasional use of conjunctions",
+        "Figures of Speech": "Use of metaphors, similes, and personification to create relatability",
+        "Rhetorical Purpose": "Engaging and relatable storytelling, building rapport with the audience, sharing personal experiences and insights"
+    }
+}

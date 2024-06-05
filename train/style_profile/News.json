@@ -1,0 +1,16 @@
+{
+    "name": "News",
+    "description": "The news style, also known as journalistic style, is characterized by its clear, concise, and factual presentation of information. It typically follows the inverted pyramid structure, where the most important details are presented first, followed by supporting information and background details. This style prioritizes objectivity, accuracy, and impartiality, ensuring that the reader receives a balanced and informative account of the events being reported. The language used in news writing is straightforward and easily understood, avoiding jargon, complex sentences, and excessive adjectives. The news style aims to engage readers with relevant and timely information, while maintaining a sense of professionalism and credibility.",
+    "examples": [
+        "Breaking news: A major earthquake has struck the city, causing widespread damage and leaving thousands without power.",
+        "The city council has approved a controversial development plan, sparking heated debate among residents and environmental groups.",
+        "The education minister unveiled a new policy aimed at improving access to quality education for children from disadvantaged backgrounds.",
+        "The stock market experienced a volatile trading session today, with investors keeping a close eye on geopolitical developments and economic data."
+    ],
+    "observation": {
+        "Diction": "Formal and precise language, use of domain-specific terminology, and journalistic tone",
+        "Syntax": "Predominantly simple and declarative sentences, use of active voice, and occasional use of punctuation for emphasis",
+        "Figures of Speech": "Limited use of figures of speech, primarily focusing on clear and straightforward communication",
+        "Rhetorical Purpose": "Informative and objective, aiming to convey news, updates, and key information to the audience"
+    }
+}

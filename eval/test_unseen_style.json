@@ -1,0 +1,1602 @@
+[
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: You've heard of Bruce Jenner , haven't you ?\nPerson B: He won the decathlon in the 1976 Olympics , right ?\nPerson A: I read that he trained so much that he used to dream about jumping hurdles .\nPerson B: I can think of better things to dream about ...\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Have you got your invitation yet ?\nPerson B: My invitation ? No , I haven't . My invitation to what ?\nPerson A: The house warming party .\nPerson B: Whose house warming party is it ?\nPerson A: Tom and Bill Smith . They are both working now you know ? And they've bought a new house .\nPerson B: Oh , they have ? I didn't know . I haven't seen Tom lately .\nPerson A: It's out in the suburbs .\nPerson B: Have you seen the house ?\nPerson A: Yes , I have . I went out with them last weekend .\nPerson B: Is it nice ?\nPerson A: Yes , it is . There are three bedrooms , a living room , a dining room , and a big kitchen .\nPerson B: There's also a garden .\nPerson A: Well , that does sound nice . Have they moved in yet ?\nPerson B: They are moving today . Tom's taken the day off . He's rented a truck , and they should have all their furniture in the house tonight .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Let's have some lunch ; do you know of a great restaurant somewhere ?\nPerson B: Yes , I'm hungry . What types of food sound good ?\nPerson A: Maybe just a quick sandwich , salad , or something .\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Well , how did you enjoy your seaside trip ?\nPerson B: It was funny .\nPerson A: Tell me about it , will you ?\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: What's the matter , John ? you seemed to be restless today .\nPerson B: You see , I've been offered a new job . I can't decide whether to take it or not .\nPerson A: Oh , that's easy . If it's better than the one you are doing now , go for it . That's my advice .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: I feel like going for a drink , it's been a long day .\nPerson B: Great idea ! Peter , I could use the drink .\nPerson A: How about the new bar across the road ?\nPerson B: Sounds good . The food there is fantastic too .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Excuse me , i am a new student here . Could you tell me where the English Department is ?\nPerson B: It is in that brand new , tall building over there . On the 9th floor .\nPerson A: Where is the school cafeteria ?\nPerson B: It is the basement of that red building in front of the tower with big bells .\nPerson A: Where is the Computer Center ?\nPerson B: The Computer Center is on the first floor of the library .\nPerson A: Where is the library ?\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: The bartender just gave the last call . Let's order another round , okay ?\nPerson B: Sure , but let's get a pitcher this time We should be able to down it before they close .\nPerson A: That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: The bartender just gave the last call . Let's order another round , okay ?\nPerson B: Sure , but let's get a pitcher this time We should be able to down it before they close .\nPerson A: That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?\nPerson B: It's all the way to the back . See that yellow door ?\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Let's have some lunch ; do you know of a great restaurant somewhere ?\nPerson B: Yes , I'm hungry . What types of food sound good ?\nPerson A: Maybe just a quick sandwich , salad , or something .\nPerson B: I have a great idea of where you might like to go .\nPerson A: Can we walk there ?\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Here's the course description guide .\nPerson B: What do I do with it ?\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Mike ! Look at the floor !\nPerson B: What's wrong with it ?\nPerson A: What's wrong with it ? It's filthy !\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: I hate computer games .\nPerson B: Why ? They are fine .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Hey , Blake ! Are you still listening to Mozart ?\nPerson B: Yes . Do you like it ?\nPerson A: It's great . and I ' Ve heard that listening to Mozart can make you more intelligent .\nPerson B: Really ? I've never heard that before . I just like it .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Excuse me , can you tell me the name of the book you read ?\nPerson B: Harry Potter .\nPerson A: Harry Potter ? Is that book funny ?\nPerson B: Actually , the language itself is not so funny , but you can imagine the scene , that's funny .\nPerson A: Got it .\nPerson B: Have you ever read this book before ?\nPerson A: No , but my little brother likes it very much .\nPerson B: It's really a good book . You will like it too .\nPerson A: I'll try to read it . Actually , I like literature very much .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: The bartender just gave the last call . Let's order another round , okay ?\nPerson B: Sure , but let's get a pitcher this time We should be able to down it before they close .\nPerson A: That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?\nPerson B: It's all the way to the back . See that yellow door ?\nPerson A: Yeah . I think I can find it .\nPerson B: You're back already . That sure was quick .\nPerson A: That's because I just took one step inside and turned right around . That bathroom is too gross for me .\nPerson B: Well , the bartender wouldn't give me the pitcher of beer . Anyway . He said it was too close to closing time .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: I was just watching a documentary on TV about how people use dogs for various purpose . It was very interesting .\nPerson B: I love dogs . They have been used as guards for centuries . Nowadays , they are often used to find illegal drugs and bombs by the police and customs officers .\nPerson A: The documentary also pointed out that they are used by shepherds to round up sheep and by rescue workers to find people trapped under rubble or snow .\nPerson B: Horses are useful to people too . We use them for sports and recreation .\nPerson A: Don ' t forget that horses are still used in many countries to pull ploughs and carts .\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: The bartender just gave the last call . Let's order another round , okay ?\nPerson B: Sure , but let's get a pitcher this time We should be able to down it before they close .\nPerson A: That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?\nPerson B: It's all the way to the back . See that yellow door ?\nPerson A: Yeah . I think I can find it .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Excuse me , i am a new student here . Could you tell me where the English Department is ?\nPerson B: It is in that brand new , tall building over there . On the 9th floor .\nPerson A: Where is the school cafeteria ?\nPerson B: It is the basement of that red building in front of the tower with big bells .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: It was really hard for our parents to save money when they were young .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Do you like ethnic food ?\nPerson B: I do ! My favorites are Mexican , Thai , and Indian .\nPerson A: Really ? Have you ever tried Moroccan ?\nPerson B: I can't say that I have . What are the basic ingredients ?\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: I wonder what he looks like . Oh , I can't wait to see him ! His email said he'd be wearing a white hat . oh , there he is .\nPerson B: hey , Isabelle ...\nPerson A: Logan ! Why on earth are you hiding here ? White hat ! Come on ! Don't tell me you're the guy ! It can't be true .\nPerson B: yes , I am the guy ...\nPerson A: what a bummer ! You set me up ?\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Do you like ethnic food ?\nPerson B: I do ! My favorites are Mexican , Thai , and Indian .\nPerson A: Really ? Have you ever tried Moroccan ?\nPerson B: I can't say that I have . What are the basic ingredients ?\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Valerie ! Hi ! Wow how are you ? It ' s been such a long time !\nPerson B: Darlene ! Indeed , it ' s been a while ! How have you been ? Wow , you look amazing ! I love what you ' Ve done with your hair !\nPerson A: Really ? Thanks ! I went to that hair salon that you told me about , but enough about me ! Look at you ! You haven ' t aged a day since the last time I saw you ! What is your secret !\nPerson B: Ha ha , come on ! Well , I ' Ve been watching what I eat , and working out three times a week . By the way , I heard your son recently graduated !\nPerson A: Yes , my little Paul is finally a doctor . They grow up so fast you know .\nPerson B: He is such a handsome guy . He gets his looks from his mother of course !\nPerson A: Thank you ! What about your daughter , Pamela ? I heard she has passed the bar exam and married recently .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Hey Stacy . What's going on ?\nPerson B: I'm pretty tired these days .\nPerson A: Why ? You're not working so don't you have a lot of time on your hands ?\nPerson B: I have so much house work to do . I have to take care of the kids , cook , clean , laundry , and the cycle never ends .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Like a cat on hot bricks , as you might say . I don ' t believe you are listening at all .\nPerson B: Sorry , I just worried about him . You know , he should be here an hour ago .\nPerson A: Don ' t worry him , he has been grown up and I think he can take himself very well .\nPerson B: But he still does not come back .\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Hello . this is Susan .\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Have heard of Paul ?\nPerson B: No , what ?\nPerson A: He's got a promotion .\nPerson B: You're kidding .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Could you please wait for a minute ? I'll buy the tickets\nPerson B: All right .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Man , I'm hungry . Do you know a good place to have lunch ?\nPerson B: Yes , I know a great place . What types of food do you like ?\nPerson A: Mexican , Japanese or Chinese would be great .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Is there anything worth watching on another channel ?\nPerson B: I think there ' s a Western on .\nPerson A: Do you mind if we watch it . I ' d really like to see it .\nPerson B: Well , I really wanted to see the football game .\nPerson A: Football game ? Ok , and you know what comes on next ?\nPerson B: I believe there ' s a sitcom .\nPerson A: Are you interested in watching it ?\nPerson B: Let me look in the TV Guide first .\nPerson A: Oh , I am sorry . What's on Channel 2 at 10 pm ?\nPerson B: If I remember correctly , it's a quiz show .\nPerson A: Do you want to watch it ?\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Excuse me Miao Li . Could you tell me who Jackie Chan is ?\nPerson B: Certainly . Jackie Chan is a very famous movie star in Hong Kong . His Chinese name is Cheng Long .\nPerson A: Ha , I know Cheng Long a lot , he has made 40 films since 1976 . And at that time he was promoted as the new Bruce Lee . But I'm not familiar with his English name .\nPerson B: OK . Then tell me what else you know .\nPerson A: Some movie stars measure their worth by how many millions of dollars they make . Do you know how Jackie Chan measures his worth ?\nPerson B: He measures his worth by how many of his bones he has fractured while executing his film , incredible stunts . By the way , can you count the breaks ?\nPerson A: Sure . His skull , his eyes , his nose , three times , his jaw , his shoul-der , is chest , two fingers , a knee . As he said ' Everything from the top of my head to the bottom of my feet ! '\nPerson B: Indeed you know much about him .\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: May I ask a question ?\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Like a cat on hot bricks , as you might say . I don ' t believe you are listening at all .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: I see Mike farmer has make it into the Olympic team . He beat the national record by 0 . 1 of a second .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Did you watch the final last night ? My favorite singer won !\nPerson B: Oh , I love him too . He not only sings well but also shows perseverance when he encounters difficulties in the contest .\nPerson A: Yeah , he got booted after his initial performance in the audition , but he did not give up . He then tried at another two auditions .\nPerson B: He had barely survived the third audition and finally got a chance to advance in the contest . Fortunately , in the third audition , he has won popularity among the audience . And that's when I started to notice him .\nPerson A: Me too .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Excuse me . Do you study Chinese at this university ?\nPerson B: Yes , I do . But my characters are very bad .\nPerson A: It takes a long time to learn Chinese writing .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Don ' t you agree that all the thieves should be punished by cutting off their fingers ?\nPerson B: I ' m afraid many people would turn thumbs down on it .\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Excuse me , i am a new student here . Could you tell me where the English Department is ?\nPerson B: It is in that brand new , tall building over there . On the 9th floor .\nPerson A: Where is the school cafeteria ?\nPerson B: It is the basement of that red building in front of the tower with big bells .\nPerson A: Where is the Computer Center ?\nPerson B: The Computer Center is on the first floor of the library .\nPerson A: Where is the library ?\nPerson B: The library is next to the Adminstration Building . The Adminstration Building is over there near the school ' s main entrance . There are school maps for free in the lobby of the Admin .\nPerson A: Thank you . I will go get one .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Here's the course description guide .\nPerson B: What do I do with it ?\nPerson A: Do you want me to help you ?\nPerson B: Please .\nPerson A: Look . Here are the core classes . Everyone has to take them .\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Valerie ! Hi ! Wow how are you ? It ' s been such a long time !\nPerson B: Darlene ! Indeed , it ' s been a while ! How have you been ? Wow , you look amazing ! I love what you ' Ve done with your hair !\nPerson A: Really ? Thanks ! I went to that hair salon that you told me about , but enough about me ! Look at you ! You haven ' t aged a day since the last time I saw you ! What is your secret !\nPerson B: Ha ha , come on ! Well , I ' Ve been watching what I eat , and working out three times a week . By the way , I heard your son recently graduated !\nPerson A: Yes , my little Paul is finally a doctor . They grow up so fast you know .\nPerson B: He is such a handsome guy . He gets his looks from his mother of course !\nPerson A: Thank you ! What about your daughter , Pamela ? I heard she has passed the bar exam and married recently .\nPerson B: Oh yes . She had a beautiful wedding in Cozumel Mexico and we all attended .\nPerson A: Such a lovely girl . I hope my Paul is lucky enough to find a girl like that someday !\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Doris , I'm glad you're home . I'm terrified . I don't know what to do !\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Here's the course description guide .\nPerson B: What do I do with it ?\nPerson A: Do you want me to help you ?\nPerson B: Please .\nPerson A: Look . Here are the core classes . Everyone has to take them .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Do you like watching the Winter Olympic Games ?\nPerson B: Of course . It's the tradition game in winter , and with good reason . Don't you like watching it ?\nPerson A: Of course I do . I love it . All the games are exciting and the competitors are respectable .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Come in , come in !\nPerson B: Hi , Gary , what happened ? I was waiting for you at the theater . Why didn ' t you meet me there ?\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: I feel like going for a drink , it's been a long day .\nPerson B: Great idea ! Peter , I could use the drink .\nPerson A: How about the new bar across the road ?\nPerson B: Sounds good . The food there is fantastic too .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Very glad to know something about you , then what are you going to do when you finish .\nPerson B: Oh , I ' ll go to shanghai to practice there .\nPerson A: That ' s a good idea . It must be easy to find a job in shanghai .\nPerson B: I think so , you know there is a great deal of opportunity for business there .\nPerson A: And English is very useful in your job .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: It really makes my blood boil when this sort of thing happens . I even want to wring his neck .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: May I ask a question ?\nPerson B: Yes , what's it ?\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Doris , I'm glad you're home . I'm terrified . I don't know what to do !\nPerson B: What is it ? What happened ?\nPerson A: I think someone is stalking me .\nPerson B: No , it can't be . Really ? Who ?\nPerson A: I don't know . I saw him the first time Tuesday . He was at the cafe . I noticed he was looking at me a lot . Not just the usual looking , but staring . He just kept staring at me . He didn't stop .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Here's the course description guide .\nPerson B: What do I do with it ?\nPerson A: Do you want me to help you ?\nPerson B: Please .\nPerson A: Look . Here are the core classes . Everyone has to take them .\nPerson B: So I don't have to worry about them .\nPerson A: You're catching on ! However , there are elective courses like wood shop , metal shop , home economics ...\nPerson B: I'll take home economics .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: It's too hot to read .\nPerson B: We'd better go out for a walk .\nPerson A: Which season do you like best ?\nPerson B: Spring .\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: You've heard of Bruce Jenner , haven't you ?\nPerson B: He won the decathlon in the 1976 Olympics , right ?\nPerson A: I read that he trained so much that he used to dream about jumping hurdles .\nPerson B: I can think of better things to dream about ...\nPerson A: Sometimes he would wake up covered in sweat , with his legs pumping away .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: What's the matter , John ? you seemed to be restless today .\nPerson B: You see , I've been offered a new job . I can't decide whether to take it or not .\nPerson A: Oh , that's easy . If it's better than the one you are doing now , go for it . That's my advice .\nPerson B: It isn't that easy . I hate to quit my present job . People around here are very nice and the work itself is challenging .\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Let ' s play a game !\nPerson B: OK ! How about Scrabble ?\nPerson A: No , no , a friend of mine taught me this really fun game . I ' m going to describe someone ' s face , and you guess who it is !\nPerson B: OK !\nPerson A: Let ' s see . He has a roman nose , bushy eyebrows and dimples !\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Do you like watching the Winter Olympic Games ?\nPerson B: Of course . It's the tradition game in winter , and with good reason . Don't you like watching it ?\nPerson A: Of course I do . I love it . All the games are exciting and the competitors are respectable .\nPerson B: That's true . For various reasons , it takes more to hold a fierce game for Winter Olympics than it does for Summer Olympics . You know , the low temperature may cause many problems .\nPerson A: Yeah . What's the difference between the Winter Olympics and the Summer Olympics ?\nPerson B: When the Olympic Games started in modern times , only summer events were included . When it grew popular , there came the Winter Olympic Games , which includes a variety of winter sports .\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: His grandfather is the richest person in the area .\nPerson B: What a miser ! He cycles to school every day .\nPerson A: His grandfather's money is not his .\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: I feel like going for a drink , it's been a long day .\nPerson B: Great idea ! Peter , I could use the drink .\nPerson A: How about the new bar across the road ?\nPerson B: Sounds good . The food there is fantastic too .\nPerson A: I agree , I had lunch there last week .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Would you care to join for the picnic tomorrow ?\nPerson B: Much to my regret , I'll have to meet my girlfriend at the airport then .\nPerson A: We'd like to invite you for our dress party tomorrow evening , are you free ?\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Why don't you watch where you're going ?\nPerson B: Me ? You're the one who pulled out in front of me !\nPerson A: There was plenty of room for me to pull out . You didn't have to stay in the lane you were in .\nPerson B: Hey , listen . I had every right to stay in the lane I was in . You were supposed to wait until I passed to pull out . And anyhow , you didn't give me any time to change lanes . All of a sudden--BANG--there you are right in front of me .\nPerson A: I think my arm is broken .\nPerson B: Sorry about your arm , but it serves you right . You need to learn how to drive . You're lucky you didn't get killed . And I'm lucky to be alive too .\nPerson A: Listen , let's just wait until the police get here . Then we can decide whose fault this accident was .\nPerson B: Fine with me . I know the laws of the road . I'm not worried .\nPerson A: I have a cell phone in my car . Now it's probably on the floor on the passenger side . Why don't you get it for me , and then I can call the police ?\nPerson B: Alright .\nPerson A: It doesn't work . It looks like it's broken . I need to get to a hospital . You should drive me there .\nPerson B: Oh , yeah ? It's better if we make a police report first . Then you can go to the hospital .\nPerson A: Damn it ! I'm injured here . We could wait all day for the police .\nPerson B: Well , you'll just have to wait . I'm not going to move my car until the police arrive . I'll go into one of those houses over there and use their phone . Don't worry . You'll get to the hospital in time .\nPerson A: It really hurts .\nPerson B: Yes , maybe it does . But if you're going to drive like you did just now , you will have to get used to a little physical pain . You know what I mean ?\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Jane , I was wondering if you you had any plans for saturday afternoon .\nPerson B: A friend and I are planing to go out , why ? what's up ?\nPerson A: There is a special exhibition of french sculptures at the museum , I was hoping you ' d like to come with me .\nPerson B: I am afraid I can't I am going to be out all day .\nPerson A: What about sunday ?\nPerson B: i wish i could , but it's my mums birthday .\nPerson A: Maybe next week .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Valerie ! Hi ! Wow how are you ? It ' s been such a long time !\nPerson B: Darlene ! Indeed , it ' s been a while ! How have you been ? Wow , you look amazing ! I love what you ' Ve done with your hair !\nPerson A: Really ? Thanks ! I went to that hair salon that you told me about , but enough about me ! Look at you ! You haven ' t aged a day since the last time I saw you ! What is your secret !\nPerson B: Ha ha , come on ! Well , I ' Ve been watching what I eat , and working out three times a week . By the way , I heard your son recently graduated !\nPerson A: Yes , my little Paul is finally a doctor . They grow up so fast you know .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: The bartender just gave the last call . Let's order another round , okay ?\nPerson B: Sure , but let's get a pitcher this time We should be able to down it before they close .\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Valerie ! Hi ! Wow how are you ? It ' s been such a long time !\nPerson B: Darlene ! Indeed , it ' s been a while ! How have you been ? Wow , you look amazing ! I love what you ' Ve done with your hair !\nPerson A: Really ? Thanks ! I went to that hair salon that you told me about , but enough about me ! Look at you ! You haven ' t aged a day since the last time I saw you ! What is your secret !\nPerson B: Ha ha , come on ! Well , I ' Ve been watching what I eat , and working out three times a week . By the way , I heard your son recently graduated !\nPerson A: Yes , my little Paul is finally a doctor . They grow up so fast you know .\nPerson B: He is such a handsome guy . He gets his looks from his mother of course !\nPerson A: Thank you ! What about your daughter , Pamela ? I heard she has passed the bar exam and married recently .\nPerson B: Oh yes . She had a beautiful wedding in Cozumel Mexico and we all attended .\nPerson A: Such a lovely girl . I hope my Paul is lucky enough to find a girl like that someday !\nPerson B: But of course ! Well , it ' s been great talking to you , but I have to get going .\nPerson A: Same here ! We will catch up soon , maybe over coffee !\nPerson B: That would be great ! Give me a call !\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Would you care to join for the picnic tomorrow ?\nPerson B: Much to my regret , I'll have to meet my girlfriend at the airport then .\nPerson A: We'd like to invite you for our dress party tomorrow evening , are you free ?\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Hey , Peter , have you had lunch yet ?\nPerson B: No . How about you ?\nPerson A: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Jack wonders whether Linda likes him or not .\nPerson B: Why doesn't he ask her ?\nPerson A: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: How do you arrange this summer vacation ?\nPerson B: I want to travel .\nPerson A: Where would you like to go ?\nPerson B: The seaside .\nPerson A: That's really a good idea . Taking a walk on the beach and lying in the sun are pretty good . I recommend you Qingdao or Dalian .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Sorry . I didn't mean to be late . Can I come in ?\nPerson B: What's your excuse this time ?\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Have you got your invitation yet ?\nPerson B: My invitation ? No , I haven't . My invitation to what ?\nPerson A: The house warming party .\nPerson B: Whose house warming party is it ?\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Well , how did you enjoy your seaside trip ?\nPerson B: It was funny .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: As we know , mobile phones bring people great convenience and shorten the distance among friends and relatives .\nPerson B: It bears a great many of advantages , but also some weak points .\nPerson A: Is it ? I've never thought of any disadvantages of the mobile phone .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: I'm sorry , but I can't find the book you lent me .\nPerson B: Oh , that's all right .\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Good morning .\nPerson B: Good morning .\nPerson A: What does the paper say ?\nPerson B: Nothing much -- the same old stuff . A lot of bad news as usual .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: The stepmother was very wicked . She couldn't stand a happy smile on the boy's face .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Did you read the letter in the paper about smoking ? The person who wrote that must be crazy .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: I am so busy today .\nPerson B: Can I help you ?\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: You are an outgoing person , quite easy to talk with .\nPerson B: Yes , my friends like to get along with me well .\nPerson A: Do you have many friends ?\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Did you watch the final last night ? My favorite singer won !\nPerson B: Oh , I love him too . He not only sings well but also shows perseverance when he encounters difficulties in the contest .\nPerson A: Yeah , he got booted after his initial performance in the audition , but he did not give up . He then tried at another two auditions .\nPerson B: He had barely survived the third audition and finally got a chance to advance in the contest . Fortunately , in the third audition , he has won popularity among the audience . And that's when I started to notice him .\nPerson A: Me too .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: What's the matter with you , then ? You look miserable .\nPerson B: It's us .\nPerson A: What do you mean by \" us \" ?\nPerson B: Well , we used to talk to each other before we were married . Remember ?\nPerson A: What do you mean ? We ' re talking now , aren't we ?\nPerson B: Oh , yes , but we used to do so much together .\nPerson A: Yes . I remember . But we never used to argue . You used to think I was wonderful . Where are you going ?\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: have you ever been invited to a Chinese feast ?\nPerson B: sure . Beijingers are distinguished for their warmth and hospitality .\nPerson A: as far as you could see , is dining at a Chinese table a distinct experience ? To what extent does it differ from that in your homeland ?\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Are you ready to go to the mall ?\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Sorry . I didn't mean to be late . Can I come in ?\nPerson B: What's your excuse this time ?\nPerson A: Have I used the one that my sister is sick ?\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Hello ?\nPerson B: Hey Tina . What are you doing ?\nPerson A: I was just watching TV . What's going on with you ?\nPerson B: I just watched a movie and I'm scared .\nPerson A: What did you watch ?\nPerson B: I saw the Sixth Sense . I didn't know it was going to be so scary .\nPerson A: I remember that . It was a great movie . But it was definitely scary .\nPerson B: If you're not busy , do you want to come over ? I'm afraid to be alone .\nPerson A: Sure . I can come over . What should we do ?\nPerson B: How about if we watch a comedy . I need something to get my mind off the frightening images I have from the Sixth Sense .\nPerson A: Ok . I'll get ready and leave . I'll see you in about 20 minutes .\nPerson B: Hurry , ok . It's dark out .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: So , Paula , where are you from ?\nPerson B: I'm from Canada , originally .\nPerson A: From Canada ? Where were you born ?\nPerson B: Montreal .\nPerson A: When did you come to Los Angeles ?\nPerson B: We moved here when I was fourteen .\nPerson A: Did you go to school here ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Hey Sandra , what's wrong ? You look furious !\nPerson B: I've had it with Tim ! I think I'm going to quit !\nPerson A: But Sandra ... you love your job ! You spent months trying to get this position . It's perfect for you !\nPerson B: Yeah ... I know . But I'm sick and tired of all the office power struggles !\nPerson A: What kind of power struggles are you talking about ?\nPerson B: Basically , I think Tim is threatened by me . I'm doing a better job than he is so he's trying to sabotage my career !\nPerson A: So he talks about you behind your back ?\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Let ' s play a game !\nPerson B: OK ! How about Scrabble ?\nPerson A: No , no , a friend of mine taught me this really fun game . I ' m going to describe someone ' s face , and you guess who it is !\nPerson B: OK !\nPerson A: Let ' s see . He has a roman nose , bushy eyebrows and dimples !\nPerson B: Our cousin Pete ! My turn ! She has a pointy nose , sunken eyes and a mole on her chin !\nPerson A: Aunt Rose ! That mole is so huge ! OK , my turn . He has a crooked nose and full lips . He has quite a few freckles and an oval face . Oh , he is also bald !\nPerson B: Your future husband !\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Would you care to join for the picnic tomorrow ?\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Helen , did you hear I ' m having a party ? Next Saturday in my place .\nPerson B: I may have something on that day , but thanks for inviting me .\nPerson A: Well , drop by if you can .\nPerson B: I will , do you want me to bring anything ?\nPerson A: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: What's the matter with you , then ? You look miserable .\nPerson B: It's us .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: have you ever been invited to a Chinese feast ?\nPerson B: sure . Beijingers are distinguished for their warmth and hospitality .\nPerson A: as far as you could see , is dining at a Chinese table a distinct experience ? To what extent does it differ from that in your homeland ?\nPerson B: to begin with , I have to use chopsticks .\nPerson A: but you look quite proficient in using them now .\nPerson B: certainly . After all , I've been here for two years . It's not much uphill work for a foreigner to get used to Chinese dinner utensils . Though , I do feel hazy about how to behave appropriately at a Ch\nPerson A: yes , table etiquette . There are a multitude of rules that foreigners might never know until they were told . Some practices even appear somewhat awkward or rude to Westerners , while they are the norm i\nPerson B: anything strang about that ?\nPerson A: maybe you should have placed them horizontally over your bowl or plate . They resemble two incense sticks used at sacrifices . It's very inauspicious , and might enrage all present .\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Let's play chess .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Excuse me Miao Li . Could you tell me who Jackie Chan is ?\nPerson B: Certainly . Jackie Chan is a very famous movie star in Hong Kong . His Chinese name is Cheng Long .\nPerson A: Ha , I know Cheng Long a lot , he has made 40 films since 1976 . And at that time he was promoted as the new Bruce Lee . But I'm not familiar with his English name .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Are you free this weekend , Miss Rose ?\nPerson B: Yes , I am . What's up ?\nPerson A: Then would you please go to a dance party with me ?\nPerson B: With pleasure . I suppose you dance often .\nPerson A: Oh , no . As a matter of fact , I haven't danced for a long time .\nPerson B: But I am told that you dance wonderfully well .\nPerson A: Thanks for flattering me . I think you dance a lot , right ?\nPerson B: No . Just occasionally .\nPerson A: What's your favorite dance ?\nPerson B: It's hard to say , but I do love the foxtrot and waltz .\nPerson A: How about rock'n'roll ?\nPerson B: To tell you the truth , I don't like it . It's too noisy .\nPerson A: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Hey , look over there . It seems that there is something interesting going on . Let's go and have a look .\nPerson B: Sure . It's probably a skiing show . Adam told me there are many skiing clubs whose members put on shows to attract more visitors .\nPerson A: Look at that . It's so dangerous . My mom would never allow me to do that .\nPerson B: Stop all this fuss and enjoy the show .\nPerson A: You are right . But what if an avalanche happened ?\nPerson B: They are all great skiers and very experienced . So I suppose the chance for them to be buried by an avalanche is slim .\nPerson A: Anyway , the show is breathtaking . By the way , where did they get so much snow here ?\nPerson B: Well , they have the most advanced snowmaking machine .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: are you a blogger ?\nPerson B: sure I am . I've been writing a blog for almost three years .\nPerson A: oh , it seems that I'm the only one who never blogs . When did you get started ?\nPerson B: I began blogging when I first went to the US for my graduate strides .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Oh , it's getting late . I've got to run . It was nice talking to you , karren .\nPerson B: Thanks , Tim . Nice meeting you , too .\nPerson A: I guess we'll see just around .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Actually I have a passion for Chinese literature .\nPerson B: You do ?\nPerson A: Yeah , those classics from the great writers .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: May I ask a question ?\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: The stepmother was very wicked . She couldn't stand a happy smile on the boy's face .\nPerson B: And ?\nPerson A: And she did her best to pull out the thorn in her flesh and the boy lost whatever made him happy .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .\nPerson B: I ' m sorry , we have no mid-size available at the moment .\nPerson A: I don ' t understand , I made a reservation , do you have my reservation ?\nPerson B: Yes , we do , unfortunately we ran out of cars .\nPerson A: But the reservation keeps the car here . That ' s why you have the reservation .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Could you please wait for a minute ? I'll buy the tickets\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Do you like ethnic food ?\nPerson B: I do ! My favorites are Mexican , Thai , and Indian .\nPerson A: Really ? Have you ever tried Moroccan ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .\nPerson B: I ' m sorry , we have no mid-size available at the moment .\nPerson A: I don ' t understand , I made a reservation , do you have my reservation ?\nPerson B: Yes , we do , unfortunately we ran out of cars .\nPerson A: But the reservation keeps the car here . That ' s why you have the reservation .\nPerson B: I know why we have reservations .\nPerson A: I don ' t think you do . If you did , I ' d have a car . See , you know how to take the reservation , you just don ' t know how to hold the reservation and that ' s really the most important part of the reservation , the holding . Anybody can just take them .\nPerson B: But we do have a compact or an SUV if you ' d like .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: I hate to go outside .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: I am so busy today .\nPerson B: Can I help you ?\nPerson A: I ' m not sure . Perhaps you could do the shopping .\nPerson B: I ' ll be glad to help .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Jeff , I'm going to the supermarket . Do you want to come with me ?\nPerson B: I think the supermarket is closed now .\nPerson A: Oh , When does it close ?\nPerson B: It closes at 7:00 on Sundays .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: I think you're being a little naive .\nPerson B: If I want , I can protect myself by paying through an escrow account , which holds the money until I receive the item .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Let's have some lunch ; do you know of a great restaurant somewhere ?\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Excuse me , can you tell me the name of the book you read ?\nPerson B: Harry Potter .\nPerson A: Harry Potter ? Is that book funny ?\nPerson B: Actually , the language itself is not so funny , but you can imagine the scene , that's funny .\nPerson A: Got it .\nPerson B: Have you ever read this book before ?\nPerson A: No , but my little brother likes it very much .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Bother the flies !\nPerson B: Where do they come from ?\nPerson A: I don't know . Something rotten here ?\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Do you know that the dolphin is the most intelligent animal in the world ?\nPerson B: Yes . Dolphins have a big brain and they are very smart . They are also the fastest swimmers in the world .\nPerson A: They must be amazing animals .\nPerson B: They are . I read a story about a dolphin saving a A from drowning in the sea .\nPerson A: I read that story too . They seem to be able to understand men .\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Hey Stacy . What's going on ?\nPerson B: I'm pretty tired these days .\nPerson A: Why ? You're not working so don't you have a lot of time on your hands ?\nPerson B: I have so much house work to do . I have to take care of the kids , cook , clean , laundry , and the cycle never ends .\nPerson A: How about your husband . Does he help much ?\nPerson B: Not at all . He comes home and complains about his hard day at work . He expects me to do everything . He even wants me to feed him sometimes . Can you believe that ?\nPerson A: That sucks .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Have you found a new job yet ?\nPerson B: No , not yet . I ' m still looking . I ' Ve been doing some work through a temp-agency though .\nPerson A: What kind of work ?\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Helen , did you hear I ' m having a party ? Next Saturday in my place .\nPerson B: I may have something on that day , but thanks for inviting me .\nPerson A: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Come in , come in !\nPerson B: Hi , Gary , what happened ? I was waiting for you at the theater . Why didn ' t you meet me there ?\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: hi , darling ! I have a one-month vacation saved up . How about a trip to Europe ?\nPerson B: I could go for that . But I'm afraid our budget is a little tight this year .\nPerson A: oh , but I really need to leave this town for a change . Working day after day has worn me out . Do you have any other suggestions ?\nPerson B: we should probably think about going somewhere that isn't too far away . How about the countryside ? There must be many interesting places , and we could enjoy the fresh air and the delicious local spec\nPerson A: wonderful ! I think that's a great idea . How soon until we can make this happen ? I can't wait !\nPerson B: tomorrow I have an appointment with my dentist . What about next Monday ?\nPerson A: perfect . I'll start preparing tomorrow . If we're going to drive , I'll need to fill up the tank .\nPerson B: no need . I think it's still plenty full . Even so , I'd rather travel by bus or train . It would cost much less than driving . Oil prices are soaring nowadays , you know .\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Have you got your invitation yet ?\nPerson B: My invitation ? No , I haven't . My invitation to what ?\nPerson A: The house warming party .\nPerson B: Whose house warming party is it ?\nPerson A: Tom and Bill Smith . They are both working now you know ? And they've bought a new house .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Jane , I was wondering if you you had any plans for saturday afternoon .\nPerson B: A friend and I are planing to go out , why ? what's up ?\nPerson A: There is a special exhibition of french sculptures at the museum , I was hoping you ' d like to come with me .\nPerson B: I am afraid I can't I am going to be out all day .\nPerson A: What about sunday ?\nPerson B: i wish i could , but it's my mums birthday .\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: have you ever been invited to a Chinese feast ?\nPerson B: sure . Beijingers are distinguished for their warmth and hospitality .\nPerson A: as far as you could see , is dining at a Chinese table a distinct experience ? To what extent does it differ from that in your homeland ?\nPerson B: to begin with , I have to use chopsticks .\nPerson A: but you look quite proficient in using them now .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: David , I ' m going to China .\nPerson B: Really ? How did you get the chance ?\nPerson A: You know . I took part in the Chinese contest . I was the best and they gave me this reward . I don ' t have to pay for my trip .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Did you watch the final last night ? My favorite singer won !\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: I had to announce his innocence in court today , but it left a nasty taste in my mouth .\nPerson B: You mean you suspect him .\nPerson A: I ' m not sure . I ' ll try to prove my feeling .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Hello . this is Susan .\nPerson B: Hello , I ' m Mark . I ' m just wondering if you are free this weekend\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Have heard of Paul ?\nPerson B: No , what ?\nPerson A: He's got a promotion .\nPerson B: You're kidding .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Why don't you watch where you're going ?\nPerson B: Me ? You're the one who pulled out in front of me !\nPerson A: There was plenty of room for me to pull out . You didn't have to stay in the lane you were in .\nPerson B: Hey , listen . I had every right to stay in the lane I was in . You were supposed to wait until I passed to pull out . And anyhow , you didn't give me any time to change lanes . All of a sudden--BANG--there you are right in front of me .\nPerson A: I think my arm is broken .\nPerson B: Sorry about your arm , but it serves you right . You need to learn how to drive . You're lucky you didn't get killed . And I'm lucky to be alive too .\nPerson A: Listen , let's just wait until the police get here . Then we can decide whose fault this accident was .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Susan is going to get a divorce .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: You'll never guess what I won at work today ! - Tickets to tonight's final NBA game .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: hi , Mary ! What do you like to do in your spare time ?\nPerson B: well , I spend a lot of time watching movies .\nPerson A: what a confidence ! I always watch a lot of movies , too .\nPerson B: oh really , Frank ? What kind of movies do you like ?\nPerson A: actually , I watch whichever movie there is , be it a comedy , a sci-fi or a suspense movie . How about you ?\nPerson B: art films are my favorite , but thrillers are cool , too .\nPerson A: really impressive . These two genres are totally different .\nPerson B: sure . I enjoy both of them very much .\nPerson A: how often do you go to the cinema ?\nPerson B: once in a while , I suppose , I usually rent movies at Movie Salon .\nPerson A: movie salon ? where is that ?\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: You have been here for how long ? Four months now ?\nPerson B: Yeah , about .\nPerson A: Do you know Chinese better now ?\nPerson B: Oh , definitely . I remember , when I first arrived in Guangzhou , my girlfriend was haggling with a sales clerk over the price of a mobile phone .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Doris , Helen Mall is having a big sale this weekend . Do you wanna go ?\nPerson B: Don't feel like it . I'm broke .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: The Johnson are on their way back . You remember them , don't you ?\nPerson B: Johnson ? I can't place them .\nPerson A: We met them in Bermuda last May .\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Sorry . I didn't mean to be late . Can I come in ?\nPerson B: What's your excuse this time ?\nPerson A: Have I used the one that my sister is sick ?\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: You have been here for how long ? Four months now ?\nPerson B: Yeah , about .\nPerson A: Do you know Chinese better now ?\nPerson B: Oh , definitely . I remember , when I first arrived in Guangzhou , my girlfriend was haggling with a sales clerk over the price of a mobile phone .\nPerson A: Oh , yeah . Many Chinese like to bargain . It happens almost everywhere .\nPerson B: I mean , I understand that . But the speed of the conversation got faster and faster , until it seemed to me that they would fight . My perception of the tone was that it was a violent shouting match . The truth was that it was a perfectly normal conversation .\nPerson A: A shouting match ? You ' re so funny . You must be exaggerating . I don ' t believe it .\nPerson B: I am not exaggerating at all . I ' m telling you the truth . That was how I felt at that time .\nPerson A: Yes , perhaps . Chinese usually don ' t notice that sort of thing . Maybe it ' s quite natural to us .\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: hi , darling ! I have a one-month vacation saved up . How about a trip to Europe ?\nPerson B: I could go for that . But I'm afraid our budget is a little tight this year .\nPerson A: oh , but I really need to leave this town for a change . Working day after day has worn me out . Do you have any other suggestions ?\nPerson B: we should probably think about going somewhere that isn't too far away . How about the countryside ? There must be many interesting places , and we could enjoy the fresh air and the delicious local spec\nPerson A: wonderful ! I think that's a great idea . How soon until we can make this happen ? I can't wait !\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Ella , it's been such a long week . I'm ready to go out and party . Hey , let's go out for a night on the town .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Hey , Peter , have you had lunch yet ?\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Have you heard of Paul ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: I am so busy today .\nPerson B: Can I help you ?\nPerson A: I ' m not sure . Perhaps you could do the shopping .\nPerson B: I ' ll be glad to help .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Like a cat on hot bricks , as you might say . I don ' t believe you are listening at all .\nPerson B: Sorry , I just worried about him . You know , he should be here an hour ago .\nPerson A: Don ' t worry him , he has been grown up and I think he can take himself very well .\nPerson B: But he still does not come back .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: You don't look too well . Maybe you should take the day off from work .\nPerson B: I couldn't do that . I have an important meeting to go to today .\nPerson A: Do you feel ok ?\nPerson B: Not really . After a 12 - hour flight , I've got jetlag , and on top of that , I think I've also got the flu .\nPerson A: Why don't you call your secretary and tell her to reschedule the meeting ? You should really get some rest or you'll end up feeling even worse than you do now .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Would you care to join for the picnic tomorrow ?\nPerson B: Much to my regret , I'll have to meet my girlfriend at the airport then .\nPerson A: We'd like to invite you for our dress party tomorrow evening , are you free ?\nPerson B: Much as we'd like to , but we've booked up already for that time .\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Why don't you watch where you're going ?\nPerson B: Me ? You're the one who pulled out in front of me !\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: have you ever been to Disneyworld ?\nPerson B: when I was young , my parents took me to the one in California . I always forget which -- is that one Disneyland or Disneyworld ?\nPerson A: the one in Florida is Disneyworld and the one in California is Disneyland , so you must have been to Disneyland .\nPerson B: that's right . Why do you ask ?\nPerson A: well , I've never been to either so I was thinking of going to Disneyworld for my honeymoon .\nPerson B: when are you getting married ?\nPerson A: some time next year . We haven't set the date yet .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Did you watch the final last night ? My favorite singer won !\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Have you got your invitation yet ?\nPerson B: My invitation ? No , I haven't . My invitation to what ?\nPerson A: The house warming party .\nPerson B: Whose house warming party is it ?\nPerson A: Tom and Bill Smith . They are both working now you know ? And they've bought a new house .\nPerson B: Oh , they have ? I didn't know . I haven't seen Tom lately .\nPerson A: It's out in the suburbs .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Hi , Becky , what's up ?\nPerson B: Not much , except that my mother-in-law is driving me up the wall .\nPerson A: What's the problem ?\nPerson B: She loves to nit-pick and criticizes everything that I do . I can never do anything right when she ' s around .\nPerson A: For example ?\nPerson B: Well , last week I invited her over to dinner . My husband and I had no problem with the food , but if you listened to her , then it would seem like I fed her old meat and rotten vegetables . There's just nothing can please her .\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: It was really hard for our parents to save money when they were young .\nPerson B: Most people were living form hand to mouth . How could they ?\nPerson A: Yeah . They simply had no extra money to save up or for other things .\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Have any plans for the weekend , Tom ?\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Do you know that the dolphin is the most intelligent animal in the world ?\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Ella , it's been such a long week . I'm ready to go out and party . Hey , let's go out for a night on the town .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Have you got your invitation yet ?\nPerson B: My invitation ? No , I haven't . My invitation to what ?\nPerson A: The house warming party .\nPerson B: Whose house warming party is it ?\nPerson A: Tom and Bill Smith . They are both working now you know ? And they've bought a new house .\nPerson B: Oh , they have ? I didn't know . I haven't seen Tom lately .\nPerson A: It's out in the suburbs .\nPerson B: Have you seen the house ?\nPerson A: Yes , I have . I went out with them last weekend .\nPerson B: Is it nice ?\nPerson A: Yes , it is . There are three bedrooms , a living room , a dining room , and a big kitchen .\nPerson B: There's also a garden .\nPerson A: Well , that does sound nice . Have they moved in yet ?\nPerson B: They are moving today . Tom's taken the day off . He's rented a truck , and they should have all their furniture in the house tonight .\nPerson A: When are they going to have the party ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Are you free this weekend , Miss Rose ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: I hear you are expecting your family .\nPerson B: Yes , my parents , and soon my brother as well .\nPerson A: I didn't know you had a brother .\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Are you free this weekend , Miss Rose ?\nPerson B: Yes , I am . What's up ?\nPerson A: Then would you please go to a dance party with me ?\nPerson B: With pleasure . I suppose you dance often .\nPerson A: Oh , no . As a matter of fact , I haven't danced for a long time .\nPerson B: But I am told that you dance wonderfully well .\nPerson A: Thanks for flattering me . I think you dance a lot , right ?\nPerson B: No . Just occasionally .\nPerson A: What's your favorite dance ?\nPerson B: It's hard to say , but I do love the foxtrot and waltz .\nPerson A: How about rock'n'roll ?\nPerson B: To tell you the truth , I don't like it . It's too noisy .\nPerson A: And the tango ?\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Hey , Blake ! Are you still listening to Mozart ?\nPerson B: Yes . Do you like it ?\nPerson A: It's great . and I ' Ve heard that listening to Mozart can make you more intelligent .\nPerson B: Really ? I've never heard that before . I just like it .\nPerson A: Is classical music your favorite ?\nPerson B: Yes . What about you ?\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: I hate computer games .\nPerson B: Why ? They are fine .\nPerson A: Because they are too violent . Some of them are even disgusting .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Do you consider yourself a good mother ?\nPerson B: Yes , I'm a very good mother and successful career woman .\nPerson A: How can you manage to do both ? I mean , it is so hard to be a working mother .\nPerson B: I think the most important thing is that you should be nice to yourself , like keeping housework simple , spending money on things that make life easier , buying yourself things you like , and so on . You can only be nice to others when you can be nice to yourself .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Hello , are you Chinese ?\nPerson B: No , I'm Korean . Where are you from ?\nPerson A: I'm from America . Are you settling in all right ?\nPerson B: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: have you ever been to Disneyworld ?\nPerson B: when I was young , my parents took me to the one in California . I always forget which -- is that one Disneyland or Disneyworld ?\nPerson A: the one in Florida is Disneyworld and the one in California is Disneyland , so you must have been to Disneyland .\nPerson B: that's right . Why do you ask ?\nPerson A: well , I've never been to either so I was thinking of going to Disneyworld for my honeymoon .\nPerson B: when are you getting married ?\nPerson A: some time next year . We haven't set the date yet .\nPerson B: congratulations ! I had no idea .\nPerson A: thank you . So what do you think ? Would we have a good time ?\nPerson B: do you like amusement parks ?\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: have you ever been to Disneyworld ?\nPerson B: when I was young , my parents took me to the one in California . I always forget which -- is that one Disneyland or Disneyworld ?\nPerson A: the one in Florida is Disneyworld and the one in California is Disneyland , so you must have been to Disneyland .\nPerson B: that's right . Why do you ask ?\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Did you go to the concert last weekend ?\nPerson B: No , I didn't . And you ? Was it good ?\nPerson A: Yes . I did . I enjoyed it a lot . There was a folk singer , a violinist and a pianist .\nPerson B: How much was the ticket ?\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: It really makes my blood boil when this sort of thing happens . I even want to wring his neck .\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Excuse me , i am a new student here . Could you tell me where the English Department is ?\nPerson B: It is in that brand new , tall building over there . On the 9th floor .\nPerson A: Where is the school cafeteria ?\nPerson B: It is the basement of that red building in front of the tower with big bells .\nPerson A: Where is the Computer Center ?\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Cindy , how come nearly all the prime-time TV shows are comedies ?\nPerson B: That's because Americans love sitcoms .\nPerson A: Sitcoms ?\nPerson B: Situation comedies . A sitcom is half an hour long and it airs weekly . Sitcom shows tend to be about ordinary people . If there is one thing that all the shows have in common , it is teaching wholesome values .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: hi , darling ! I have a one-month vacation saved up . How about a trip to Europe ?\nPerson B: I could go for that . But I'm afraid our budget is a little tight this year .\nPerson A: oh , but I really need to leave this town for a change . Working day after day has worn me out . Do you have any other suggestions ?\nPerson B: we should probably think about going somewhere that isn't too far away . How about the countryside ? There must be many interesting places , and we could enjoy the fresh air and the delicious local spec\nPerson A: wonderful ! I think that's a great idea . How soon until we can make this happen ? I can't wait !\nPerson B: tomorrow I have an appointment with my dentist . What about next Monday ?\nPerson A: perfect . I'll start preparing tomorrow . If we're going to drive , I'll need to fill up the tank .\nPerson B: no need . I think it's still plenty full . Even so , I'd rather travel by bus or train . It would cost much less than driving . Oil prices are soaring nowadays , you know .\nPerson A: we can take the train , that will be faster . I'll book the tickets tomorrow morning .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Very glad to know something about you , then what are you going to do when you finish .\nPerson B: Oh , I ' ll go to shanghai to practice there .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: I'd like to invite you to dinner tonight , do you think have time ?\nPerson B: Thank you for your inition . I'm free tonight .\nPerson A: Which kind of food do you like , chinese food , western food or sea food ?\nPerson B: I prefer sea food .\nPerson A: ok . I'll pick up your hotel at 6 thirty pm .\nPerson B: That's fine . I'll be waiting for you .\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Hey Stacy . What's going on ?\nPerson B: I'm pretty tired these days .\nPerson A: Why ? You're not working so don't you have a lot of time on your hands ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: Do you consider yourself a good mother ?\nPerson B: Yes , I'm a very good mother and successful career woman .\nPerson A: How can you manage to do both ? I mean , it is so hard to be a working mother .\nPerson B: I think the most important thing is that you should be nice to yourself , like keeping housework simple , spending money on things that make life easier , buying yourself things you like , and so on . You can only be nice to others when you can be nice to yourself .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: You don't look too well . Maybe you should take the day off from work .\nPerson B: I couldn't do that . I have an important meeting to go to today .\nPerson A: Do you feel ok ?\nPerson B: Not really . After a 12 - hour flight , I've got jetlag , and on top of that , I think I've also got the flu .\nPerson A: Why don't you call your secretary and tell her to reschedule the meeting ? You should really get some rest or you'll end up feeling even worse than you do now .\nPerson B: Could you feel my forehead and check to see if I have a fever ?\nPerson A: You're really hot . Let me get you some Tylenol to bring the fever down .\nPerson B: Ok . I'll stay home this morning and rest , but if I feel better in the afternoon , I'm going to the meeting .\nPerson A: Zach , what's that on your arm ?\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Are you interested in history ?\nPerson B: Yes , I am . I enjoyed studying it at school , though I had trouble remembering all the dates , so my teacher never gave me good marks .\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Look , that bamboo groves are flourishing . Let's go and play there .\nPerson B: Wait ! Look at that board , what's on it ?\nPerson A: ' Please don't enter the bamboo groves . ' We're not allowed to go in .\nPerson B: Then we'd better not go .\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Ann , do you have time next Monday ?\nPerson B: Yeah , what ' s up ?\nPerson A: Next Monday is my birthday , and I would like you to attend my party .\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Well , how did you enjoy your seaside trip ?\nPerson B: It was funny .\nPerson A: Tell me about it , will you ?\nPerson B: Well , we drove through the valley on our way there in the morning . It was a magnificent sight .\nPerson A: Did you stop at the big waterfall for pictures ?\nPerson B: Sure , we wouldn't miss it for anything . After that , we took a short cut to the park . There was very little traffic , so we got there in less than an hour .\nPerson A: You were lucky then . What did you do after that ?\nPerson B: We went for a swim in the sea . That was the best part of the day . Just look at my nice tan .\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Jeff , I'm going to the supermarket . Do you want to come with me ?\nPerson B: I think the supermarket is closed now .\nPerson A: Oh , When does it close ?\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Jeff , I'm going to the supermarket . Do you want to come with me ?\nPerson B: I think the supermarket is closed now .\nPerson A: Oh , When does it close ?\nPerson B: It closes at 7:00 on Sundays .\nPerson A: That's too bad .\nPerson B: Don't worry , we can go tomorrow morning . It opens at 8: 00 .\nPerson A: Alright . What do you want to do now ?\nPerson B: Let's take a walk for a half an hour . My sister will get here at about 8: 30PM and then we can all go out to dinner .\nPerson A: Where does she live ?\nPerson B: She lives in San Francisco .\nPerson A: How long has she lived there ?\nPerson B: I think she's lived there for about 10 years .\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Have you found a new job yet ?\nPerson B: No , not yet . I ' m still looking . I ' Ve been doing some work through a temp-agency though .\nPerson A: What kind of work ?\nPerson B: I ' m temping at a pharmaceutic company .\nPerson A: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Have you eaten ?\nPerson B: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Matthew ? Hi !\nPerson B: Steve ! Haven't seen you in ages ! How long's it been ?\nPerson A: It's got to be almost a year now .\nPerson B: How have you been ?\nPerson A: I'm pretty good . I've been looking for a place to live recently . My lease runs out next month and I don't want to renew it .\nPerson B: Yeah , I remember the neighborhood . Have you found a place yet ?\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .\nPerson B: I ' m sorry , we have no mid-size available at the moment .\nPerson A: I don ' t understand , I made a reservation , do you have my reservation ?\nPerson B: Yes , we do , unfortunately we ran out of cars .\nPerson A: But the reservation keeps the car here . That ' s why you have the reservation .\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Excuse me , i am a new student here . Could you tell me where the English Department is ?\nPerson B: It is in that brand new , tall building over there . On the 9th floor .\nPerson A: Where is the school cafeteria ?\nPerson B: It is the basement of that red building in front of the tower with big bells .\nPerson A: Where is the Computer Center ?\nPerson B: The Computer Center is on the first floor of the library .\nPerson A: Where is the library ?\nPerson B: The library is next to the Adminstration Building . The Adminstration Building is over there near the school ' s main entrance . There are school maps for free in the lobby of the Admin .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: I hear you are expecting your family .\nPerson B: Yes , my parents , and soon my brother as well .\nPerson A: I didn't know you had a brother .\nPerson B: Oh , yes , he is two years older than me . He lives in New Zealand so I don't see him that often .\nPerson A: Oh , nice . Is he coming on his own or with the family ?\nPerson B: His son is coming as well . He wants to go to university here in England so they will visit a few universities while they are here .\nPerson A: Does your brother have just one son ?\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: You don't look too well . Maybe you should take the day off from work .\nPerson B: I couldn't do that . I have an important meeting to go to today .\nPerson A: Do you feel ok ?\nPerson B: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Bible",
+        "instruction": "# Context\nPerson A: Let's have some lunch ; do you know of a great restaurant somewhere ?\nPerson B: \n\n# Task\nRespond in Bible style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Bible",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Look , that bamboo groves are flourishing . Let's go and play there .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: hi , darling ! I have a one-month vacation saved up . How about a trip to Europe ?\nPerson B: I could go for that . But I'm afraid our budget is a little tight this year .\nPerson A: oh , but I really need to leave this town for a change . Working day after day has worn me out . Do you have any other suggestions ?\nPerson B: we should probably think about going somewhere that isn't too far away . How about the countryside ? There must be many interesting places , and we could enjoy the fresh air and the delicious local spec\nPerson A: wonderful ! I think that's a great idea . How soon until we can make this happen ? I can't wait !\nPerson B: tomorrow I have an appointment with my dentist . What about next Monday ?\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Jane , I was wondering if you you had any plans for saturday afternoon .\nPerson B: A friend and I are planing to go out , why ? what's up ?\nPerson A: There is a special exhibition of french sculptures at the museum , I was hoping you ' d like to come with me .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: So , Paula , where are you from ?\nPerson B: I'm from Canada , originally .\nPerson A: From Canada ? Where were you born ?\nPerson B: Montreal .\nPerson A: When did you come to Los Angeles ?\nPerson B: We moved here when I was fourteen .\nPerson A: Did you go to school here ?\nPerson B: Well , I went to high school here , but I went to college in Texas .\nPerson A: Did you get a job right after graduation ?\nPerson B: No , I traveled for a while in Europe after college , and then I lived in France .\nPerson A: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Sorry . I didn't mean to be late . Can I come in ?\nPerson B: What's your excuse this time ?\nPerson A: Have I used the one that my sister is sick ?\nPerson B: Yes , twice last week .\nPerson A: Are you sure ? I thought I said it was my mother .\nPerson B: I don't think so . But it could've been .\nPerson A: Well . You can trust me this time . My sister is definitely sick . I'm just coming from the hospital . They say she might even die .\nPerson B: I don't buy your story . Try not to have any more sick relatives this week , all right ?\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Are you free this weekend , Miss Rose ?\nPerson B: Yes , I am . What's up ?\nPerson A: Then would you please go to a dance party with me ?\nPerson B: With pleasure . I suppose you dance often .\nPerson A: Oh , no . As a matter of fact , I haven't danced for a long time .\nPerson B: But I am told that you dance wonderfully well .\nPerson A: Thanks for flattering me . I think you dance a lot , right ?\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Satire",
+        "instruction": "# Context\nPerson A: hi , darling ! I have a one-month vacation saved up . How about a trip to Europe ?\nPerson B: I could go for that . But I'm afraid our budget is a little tight this year .\nPerson A: oh , but I really need to leave this town for a change . Working day after day has worn me out . Do you have any other suggestions ?\nPerson B: we should probably think about going somewhere that isn't too far away . How about the countryside ? There must be many interesting places , and we could enjoy the fresh air and the delicious local spec\nPerson A: wonderful ! I think that's a great idea . How soon until we can make this happen ? I can't wait !\nPerson B: tomorrow I have an appointment with my dentist . What about next Monday ?\nPerson A: perfect . I'll start preparing tomorrow . If we're going to drive , I'll need to fill up the tank .\nPerson B: no need . I think it's still plenty full . Even so , I'd rather travel by bus or train . It would cost much less than driving . Oil prices are soaring nowadays , you know .\nPerson A: \n\n# Task\nRespond in Satire style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Satire",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Travelogue",
+        "instruction": "# Context\nPerson A: Do you like being a doctor ?\nPerson B: Yes , most of the time . But , sometimes things can get difficult .\nPerson A: Can you tell me about it ?\nPerson B: You know , sometimes patients can get very unreasonable . They may insist they are sick when they are not .\nPerson A: \n\n# Task\nRespond in Travelogue style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Travelogue",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Drama",
+        "instruction": "# Context\nPerson A: Well , how did you enjoy your seaside trip ?\nPerson B: It was funny .\nPerson A: Tell me about it , will you ?\nPerson B: Well , we drove through the valley on our way there in the morning . It was a magnificent sight .\nPerson A: Did you stop at the big waterfall for pictures ?\nPerson B: Sure , we wouldn't miss it for anything . After that , we took a short cut to the park . There was very little traffic , so we got there in less than an hour .\nPerson A: You were lucky then . What did you do after that ?\nPerson B: We went for a swim in the sea . That was the best part of the day . Just look at my nice tan .\nPerson A: So you must have had a busy and enjoyable day yesterday .\nPerson B: \n\n# Task\nRespond in Drama style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Drama",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Comedy",
+        "instruction": "# Context\nPerson A: Mike ! Look at the floor !\nPerson B: \n\n# Task\nRespond in Comedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Comedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Riddles",
+        "instruction": "# Context\nPerson A: Hey Sandra , what's wrong ? You look furious !\nPerson B: I've had it with Tim ! I think I'm going to quit !\nPerson A: But Sandra ... you love your job ! You spent months trying to get this position . It's perfect for you !\nPerson B: Yeah ... I know . But I'm sick and tired of all the office power struggles !\nPerson A: \n\n# Task\nRespond in Riddles style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Riddles",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: Have you heard of Paul ?\nPerson B: No , what ?\nPerson A: He's got a promotion .\nPerson B: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Pessimistic",
+        "instruction": "# Context\nPerson A: I see Mike farmer has make it into the Olympic team . He beat the national record by 0 . 1 of a second .\nPerson B: That ' s great . He ' s the best runner I ' Ve seen this season . I ' m sure he ' ll win a medal at the Olympics .\nPerson A: \n\n# Task\nRespond in Pessimistic style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Pessimistic",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Hey Suzie . Guess what ? I'm having a baby !\nPerson B: Really ? That's so great . Congratulations .\nPerson A: Thanks . I'm so excited . We've been trying for 8 months now .\nPerson B: That's really exciting . How many months are you pregnant ?\nPerson A: Three months .\nPerson B: Are you going to find out if it is a boy or a girl ?\nPerson A: I want to , but Bob doesn't . He wants to be surprised like the old fashioned way .\nPerson B: Maybe it's more exciting not knowing .\nPerson A: I'd rather know and buy all the baby things ahead of time .\nPerson B: There are so many things you have to prepare for .\nPerson A: I know I am going to be busy , but I know I can handle it . I have been looking forward to this day for a long long time .\nPerson B: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    },
+    {
+        "style": "Tragedy",
+        "instruction": "# Context\nPerson A: Very glad to know something about you , then what are you going to do when you finish .\nPerson B: Oh , I ' ll go to shanghai to practice there .\nPerson A: \n\n# Task\nRespond in Tragedy style. Let's think step by step. First, describe the style. Then, generate example sentences in this style. After that, observe the linguistic pattern of this style. Finally, output the stylized response.\n",
+        "input": "",
+        "output": "Tragedy",
+        "history": [],
+        "hint": ""
+    }
+]
