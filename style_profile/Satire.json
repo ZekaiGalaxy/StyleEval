@@ -1,0 +1,16 @@
+{
+    "name": "Satire",
+    "description": "Satire is a text style that employs humor, irony, exaggeration, or ridicule to expose and criticize various aspects of society, politics, or human behavior. The primary goal of satire is to bring about awareness and provoke change through witty commentary and cleverly constructed arguments. Often, satire uses sarcasm and parody to highlight the absurdity or flaws in the subject matter, making it an effective tool for social commentary. This style is meant to engage the reader, evoke laughter, and encourage critical thinking about the issues being addressed.",
+    "examples": [
+        "Ah, the joys of modern technology, where we can spend hours scrolling through the endless void of social media, only to realize we've learned absolutely nothing of value.",
+        "In a stunning display of human evolution, we now have the ability to communicate with anyone across the globe, and yet we choose to argue with strangers over the most trivial of matters.",
+        "It's remarkable how politicians promise to save the world during their campaigns, but once elected, they seem to develop a sudden case of amnesia, forgetting all about their grandiose pledges.",
+        "The irony of self-help books is that they claim to teach you how to become self-sufficient, yet they rely on your constant need for guidance in order to remain relevant and profitable."
+    ],
+    "observation": {
+        "Diction": "Formal and sophisticated language with a hint of sarcasm",
+        "Syntax": "Complex sentence structures with a mix of commas, coordinating and subordinating conjunctions",
+        "Figures of Speech": "Irony, hyperbole, and meta",
+        "Rhetorical Purpose": "Critique and highlight societal issues while engaging the reader through humor and sarcasm"
+    }
+}

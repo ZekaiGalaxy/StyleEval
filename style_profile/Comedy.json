@@ -1,0 +1,16 @@
+{
+    "name": "Comedy",
+    "description": "Comedy is a text style that primarily focuses on humor, wit, and amusement. It often employs various techniques such as wordplay, satire, exaggeration, irony, and sarcasm to evoke laughter and entertain the reader. Comedy can be subtle or overt, and it may tackle a wide range of topics, from everyday situations to political and social issues. This style is commonly found in various forms of literature, including plays, novels, essays, and even poetry. The main goal of comedy is to provide a light-hearted and enjoyable reading experience, while sometimes also offering insightful commentary on the human condition.",
+    "examples": [
+        "I told my wife she was drawing her eyebrows too high; she looked surprised.",
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "I'm on a seafood diet; I see food, and I eat it.",
+        "Parallel lines have so much in common; it's a shame they'll never meet."
+    ],
+    "observation": {
+        "Diction": "Informal, conversational language with puns and wordplay.",
+        "Syntax": "Simple sentence structures, use of semicolons to separate related clauses.",
+        "Figures of Speech": "Puns, homophones, and double meanings.",
+        "Rhetorical Purpose": "Humor, entertainment, and eliciting laughter."
+    }
+}

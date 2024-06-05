@@ -1,0 +1,16 @@
+{
+    "name": "Holmes",
+    "description": "The Holmes style is characterized by its intellectual, analytical, and observant nature, reminiscent of the famous fictional detective, Sherlock Holmes. This writing style often features intricate details, logical reasoning, and precise language, all woven together to create an engaging and thought-provoking narrative. The tone is typically formal and sophisticated, with a focus on problem-solving and unraveling mysteries. Additionally, the Holmes style often includes vivid descriptions of settings and characters, as well as clever dialogue that showcases the wit and intelligence of its protagonists. Overall, the Holmes style is an immersive and captivating form of storytelling that challenges readers to think critically and pay close attention to the unfolding plot.",
+    "examples": [
+        "It was a curious case, riddled with enigmatic clues and perplexing contradictions, that demanded the full extent of my deductive faculties.",
+        "The hansom cab rattled along the cobblestone streets, its passengers engaged in a spirited debate regarding the recent spate of seemingly unrelated crimes.",
+        "My dear Watson, do you not see the significance of the missing cufflink and the peculiar odor of the tobacco that lingers in the air?",
+        "The cryptic message, decoded through Holmes' encyclopedic knowledge of obscure ciphers, shed new light on the motives behind the crime."
+    ],
+    "observation": {
+        "Diction": "Formal and sophisticated vocabulary, vivid imagery, and strong connotations",
+        "Syntax": "Complex sentence structures, use of commas and dashes for emphasis, and varied sentence lengths",
+        "Figures of Speech": "Metaphors, similes, personification, and alliteration",
+        "Rhetorical Purpose": "Create an atmosphere of mystery and intrigue, engage the reader, and highlight the intellectual prowess of the protagonist"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Poems",
+    "description": "Poems are a form of literary expression that often employ a rhythmic and aesthetic structure to convey emotions, ideas, and vivid imagery. This style of writing typically utilizes various literary devices such as metaphor, simile, alliteration, and rhyme to create a unique and evocative experience for the reader. Poems can be written in a wide range of formats, including sonnets, haikus, and free verse, each with its own distinct characteristics. The beauty of poetry lies in its ability to capture the essence of human emotions and experiences, often in a concise and powerful manner.",
+    "examples": [
+        "A symphony of colors, the sky ablaze, as the sun dips below the horizon's haze.",
+        "The autumn leaves, a tapestry of gold and crimson, dance upon the wind.",
+        "The butterfly, a fleeting poem, flutters on wings of delicate grace.",
+        "The river's song, a melody of life, flows ever onward to the sea."
+    ],
+    "observation": {
+        "Diction": "Elevated, poetic, and descriptive language with rich imagery and sensory details.",
+        "Syntax": "Varied sentence structures, often using commas and conjunctions to create a flowing rhythm.",
+        "Figures of Speech": "quent use of metaphors, similes, personification, and other literary devices.",
+        "Rhetorical Purpose": "To evoke emotions, create vivid imagery, and convey a sense of beauty and wonder in the natural world and human experiences."
+    }
+}
